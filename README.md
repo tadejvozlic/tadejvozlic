@@ -2,10 +2,10 @@
 ### Hi there 👋, my name is Tadej and I am student from Slovenia.
 
 
-Skills: Angular / JS / HTML / CSS / Java
+Skills: Angular / JS / HTML / CSS / Java / NodeJs
 
-- 🔭 I’m currently working on Secret Angular project 🤫 
-- 🌱 I’m currently learning everything I possibly can 
+- 🔭 I’m currently working for Mediabiz Data Solutions, inc.
+- 🌱 I’m learning everything I possibly can 
 - 📫 How to reach me: linkedin.com/in/tadej-vozlič-8855b7161 
 
 
