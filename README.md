@@ -1,5 +1,5 @@
 ### Hi there 👋
-### Hi there 👋, my name is Tadej and I am student from Slovenia.
+### Hi there 👋, my name is Tadej and I am web developer from Slovenia.
 
 
 Skills: Angular / JS / HTML / CSS / Java / NodeJs
