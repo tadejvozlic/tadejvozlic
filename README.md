@@ -5,7 +5,6 @@
 Skills: Angular / JS / HTML / CSS / Java / NodeJs
 
 - 🔭 I’m currently working for Mediabiz Data Solutions, inc.
-- 🌱 I’m learning everything I possibly can 
 - 📫 How to reach me: linkedin.com/in/tadej-vozlič-8855b7161 
 
 
